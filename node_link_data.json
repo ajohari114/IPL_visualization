@@ -1,0 +1,271 @@
+{
+    "nodes": [
+        {
+            "id": 1,
+            "team": "Chennai Super Kings"
+        },
+        {
+            "id": 2,
+            "team": "Delhi Capitals"
+        },
+        {
+            "id": 3,
+            "team": "Gujarat Titans"
+        },
+        {
+            "id": 4,
+            "team": "Kolkata Knight Riders"
+        },
+        {
+            "id": 5,
+            "team": "Lucknow Super Giants"
+        },
+        {
+            "id": 6,
+            "team": "Mumbai Indians"
+        },
+        {
+            "id": 7,
+            "team": "Punjab Kings"
+        },
+        {
+            "id": 8,
+            "team": "Rajasthan Royals"
+        },
+        {
+            "id": 9,
+            "team": "Royal Challengers Bangalore"
+        },
+        {
+            "id": 10,
+            "team": "Sunrisers Hyderabad"
+        }
+    ],
+    "links": [
+        {
+            "source": 1,
+            "target": 2,
+            "win_ratio": 68.42
+        },
+        {
+            "source": 1,
+            "target": 3,
+            "win_ratio": 40.0
+        },
+        {
+            "source": 1,
+            "target": 4,
+            "win_ratio": 66.67
+        },
+        {
+            "source": 1,
+            "target": 5,
+            "win_ratio": 33.33
+        },
+        {
+            "source": 1,
+            "target": 6,
+            "win_ratio": 44.0
+        },
+        {
+            "source": 1,
+            "target": 7,
+            "win_ratio": 50.0
+        },
+        {
+            "source": 1,
+            "target": 8,
+            "win_ratio": 47.06
+        },
+        {
+            "source": 1,
+            "target": 9,
+            "win_ratio": 72.22
+        },
+        {
+            "source": 1,
+            "target": 10,
+            "win_ratio": 73.68
+        },
+        {
+            "source": 2,
+            "target": 3,
+            "win_ratio": 33.33
+        },
+        {
+            "source": 2,
+            "target": 4,
+            "win_ratio": 50.0
+        },
+        {
+            "source": 2,
+            "target": 5,
+            "win_ratio": 0.0
+        },
+        {
+            "source": 2,
+            "target": 6,
+            "win_ratio": 43.48
+        },
+        {
+            "source": 2,
+            "target": 7,
+            "win_ratio": 50.0
+        },
+        {
+            "source": 2,
+            "target": 8,
+            "win_ratio": 41.18
+        },
+        {
+            "source": 2,
+            "target": 9,
+            "win_ratio": 28.57
+        },
+        {
+            "source": 2,
+            "target": 10,
+            "win_ratio": 47.83
+        },
+        {
+            "source": 3,
+            "target": 4,
+            "win_ratio": 66.67
+        },
+        {
+            "source": 3,
+            "target": 5,
+            "win_ratio": 100.0
+        },
+        {
+            "source": 3,
+            "target": 6,
+            "win_ratio": 50.0
+        },
+        {
+            "source": 3,
+            "target": 7,
+            "win_ratio": 66.67
+        },
+        {
+            "source": 3,
+            "target": 8,
+            "win_ratio": 80.0
+        },
+        {
+            "source": 3,
+            "target": 9,
+            "win_ratio": 66.67
+        },
+        {
+            "source": 3,
+            "target": 10,
+            "win_ratio": 66.67
+        },
+        {
+            "source": 4,
+            "target": 5,
+            "win_ratio": 0.0
+        },
+        {
+            "source": 4,
+            "target": 6,
+            "win_ratio": 31.82
+        },
+        {
+            "source": 4,
+            "target": 7,
+            "win_ratio": 69.57
+        },
+        {
+            "source": 4,
+            "target": 8,
+            "win_ratio": 52.94
+        },
+        {
+            "source": 4,
+            "target": 9,
+            "win_ratio": 59.09
+        },
+        {
+            "source": 4,
+            "target": 10,
+            "win_ratio": 64.0
+        },
+        {
+            "source": 5,
+            "target": 6,
+            "win_ratio": 75.0
+        },
+        {
+            "source": 5,
+            "target": 7,
+            "win_ratio": 66.67
+        },
+        {
+            "source": 5,
+            "target": 8,
+            "win_ratio": 33.33
+        },
+        {
+            "source": 5,
+            "target": 9,
+            "win_ratio": 25.0
+        },
+        {
+            "source": 5,
+            "target": 10,
+            "win_ratio": 100.0
+        },
+        {
+            "source": 6,
+            "target": 7,
+            "win_ratio": 57.14
+        },
+        {
+            "source": 6,
+            "target": 8,
+            "win_ratio": 55.56
+        },
+        {
+            "source": 6,
+            "target": 9,
+            "win_ratio": 57.14
+        },
+        {
+            "source": 6,
+            "target": 10,
+            "win_ratio": 57.14
+        },
+        {
+            "source": 7,
+            "target": 8,
+            "win_ratio": 47.06
+        },
+        {
+            "source": 7,
+            "target": 9,
+            "win_ratio": 57.14
+        },
+        {
+            "source": 7,
+            "target": 10,
+            "win_ratio": 33.33
+        },
+        {
+            "source": 8,
+            "target": 9,
+            "win_ratio": 40.0
+        },
+        {
+            "source": 8,
+            "target": 10,
+            "win_ratio": 50.0
+        },
+        {
+            "source": 9,
+            "target": 10,
+            "win_ratio": 45.45
+        }
+    ]
+}
